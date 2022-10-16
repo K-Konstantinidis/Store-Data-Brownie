@@ -1,0 +1,3 @@
+dotenv: .env
+wallets: 
+  from_key: ${PRIVATE_KEY} # The place where we will always pull our key from
